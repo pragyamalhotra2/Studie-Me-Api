@@ -1,4 +1,4 @@
-# Typo-Backend
+# Studie-Me-Backend
 
             .
             +-- config
